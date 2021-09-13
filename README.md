@@ -1,5 +1,5 @@
 # file-sharing-frontend
 
 
-live website 
-<a href="https://share-file-here.netlify.app/ target="_blank">here </a>
+live app here
+https://share-file-here.netlify.app/ 
